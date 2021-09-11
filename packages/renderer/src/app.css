@@ -1,0 +1,10 @@
+.app {
+	background-color: transparent;
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+}
+
+button {
+	font-size: calc(10px + 2vim);
+}
